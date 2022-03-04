@@ -10,7 +10,7 @@ class Node {
     Node right;
 
 }
-
+ 
 /**
  *  create class name as Binary tree
  *  in this class all method is non static so create object for this class in main method
