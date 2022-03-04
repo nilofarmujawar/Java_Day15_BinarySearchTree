@@ -15,8 +15,8 @@ import javax.xml.bind.Element;
  *    Implement Search method and recursively search Left or Right Nodes to find 63
  *
  *
- * ---in main method all operation is executed
- * ---in Binary Tree all operation is done
+ * ---in main method all operations is executed
+ * ---in Binary Tree class all operations is done
  *
  */
 
